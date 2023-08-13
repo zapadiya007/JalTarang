@@ -1,2 +1,2 @@
 # JalTarang
-JalTarang : Streaming Real-time News Waves with APIs
+JalTarang : Streaming Real-time Waves with APIs

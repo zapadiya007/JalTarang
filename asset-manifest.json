@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bhagavad-Gita-API/static/css/main.0985b3b4.css",
+    "main.js": "/Bhagavad-Gita-API/static/js/main.adff849a.js",
+    "index.html": "/Bhagavad-Gita-API/index.html",
+    "main.0985b3b4.css.map": "/Bhagavad-Gita-API/static/css/main.0985b3b4.css.map",
+    "main.adff849a.js.map": "/Bhagavad-Gita-API/static/js/main.adff849a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0985b3b4.css",
+    "static/js/main.adff849a.js"
+  ]
+}
